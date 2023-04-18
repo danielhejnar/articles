@@ -210,7 +210,7 @@ _Fig. 8. Simulation of two stage capture of 1999 RA32._\
 _(a) The heliocentric stage, stage 1, requires an acceleration of $20 ~\mathrm{\mu m/s^2}$ over 2.3 years to bring the asteroid into rendezvous with the Earth. Sun-centered inertial frame is shown._\
 _(b) For the geocentric stage, stage 2, a $\Delta V=2300~\mathrm{m/s}$ impulse captures the asteroid around the Earth. Earth-centered inertial frame is shown._
 
-As a second example, in Fig. 8 we show the capture of 1999 RA32, the 'best' candidate in terms of rapid returna stage 1 acceleration of $20 ~\mu m/s^2$ would lead to Earth rendezvous in 2.3 years. A subsequent perigee $\Delta V$ of $2300~\mathrm{m/s}$ would circularize the orbit to roughly half the Moon's semimajor axis. Note that since the incoming trajectory crosses the orbit of the Moon, with proper timing a flyby with the Moon can be used to provide the $\Delta V$ and thus effect a ballistic capture (without propulsion) [36,37]. In fact, for any asteroid considered, the Stage 1 trajectory can be adjusted to target a desired perigee distance $q\textless r_{m}$ such that a Moon flyby can be used to effect a ballistic capture.
+As a second example, in Fig. 8 we show the capture of 1999 RA32, the 'best' candidate in terms of rapid returna stage 1 acceleration of $20 ~\mu m/s^2$ would lead to Earth rendezvous in 2.3 years. A subsequent perigee $\Delta V$ of $2300~\mathrm{m/s}$ would circularize the orbit to roughly half the Moon's semimajor axis. Note that since the incoming trajectory crosses the orbit of the Moon, with proper timing a flyby with the Moon can be used to provide the $\Delta V$ and thus effect a ballistic capture (without propulsion) [36,37]. In fact, for any asteroid considered, the Stage 1 trajectory can be adjusted to target a desired perigee distance $q~\textless ~r_{m}$ such that a Moon flyby can be used to effect a ballistic capture.
 
 ### Capture-low-thrust, constant acceleration method
 
@@ -251,7 +251,7 @@ Thus, an asteroid of the average known radius $2.67 \mathrm{~m}$ would require a
 
 The purpose of this paper was two-fold. First, we estimate the accelerations and impulsive changes which would be needed to direct a near-Earth heliocentric asteroid to an Earth close encounter with a perigee well within the Earth's Hill sphere through planar, ephemeris-based trajectory computations. Second, we developed an order-of-magnitude thrust acceleration estimate for both the heliocentric phase and geocentric capture phase. The algorithm developed was restricted to asteroids which are:
 
-- with near-circular (eccentricities $<0.1$)
+- with near-circular (eccentricities $\textless0.1$)
 - come close to the Earth's orbit
 - have an orbital plane separation angle of $1\degree$
 
@@ -368,7 +368,11 @@ where all the small terms are of order 4 or larger in the eccentricities. If one
 
 ## References
 
-[1] Jet Propulsion Laboratory. JPL Small-Body Database < http://ssd.jpl. nasa.gov/sbdb_query.cgi >, accessed February 2011.
+[1] Jet Propulsion Laboratory. JPL Small-Body Database 
+
+
+
+http://ssd.jpl. nasa.gov/sbdb_query.cgi >, accessed February 2011.
 
 [2] J.S. Lewis, Resources of the asteroids, J. Br. Interplanet. Soc. 50 (1997) 51-58.
 
