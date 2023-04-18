@@ -72,16 +72,16 @@ _Table 2 Captured asteroid data._
 | 2003 SM84 | 7.6 | 100 | 12 | 6.1 | 8.3 | 3700 | 0.65 | 3.7 | 5900 | 4.7 |
 | 1996 XB27 | 10 | 150 | 54 | 7.7 | 9.1 | 3200 | 1.3 | 2.8 | 15000 | 4 |
 
-_$^a ~\mathrm{LTA}_1$ is the low thrust acceleration for stage 1._\
-_$^b$ Estimated diameter of asteroids [28-31]._\
-_$^c$ Estimated thrust for stage 1._\
-_$^d$ Total time-of-flight for capture for both stages._\
-_$^e$ Instantaneous change in velocity._\
-_$^f$ Radius of perigee divided by radius of Moon's orbit._\
-_$^g ~\mathrm{LTA}_2$ is the low thrust acceleration for stage 2._\
-_$^h$ Estimated thrust for stage 2._\
-_$^i$ Velocity upon entering Earth's sphere of influence._\
-_$^j$ Estimated using absolute magnitude data and approximate albedo of 0.25. See Eq. (7)._
+_ $^a ~\mathrm{LTA}_1$ is the low thrust acceleration for stage 1._\
+_ $^b$ Estimated diameter of asteroids [28-31]._\
+_ $^c$ Estimated thrust for stage 1._\
+_ $^d$ Total time-of-flight for capture for both stages._\
+_ $^e$ Instantaneous change in velocity._\
+_ $^f$ Radius of perigee divided by radius of Moon's orbit._\
+_ $^g ~\mathrm{LTA}_2$ is the low thrust acceleration for stage 2._\
+_ $^h$ Estimated thrust for stage 2._\
+_ $^i$ Velocity upon entering Earth's sphere of influence._\
+_ $^j$ Estimated using absolute magnitude data and approximate albedo of 0.25. See Eq. (7)._
 
 ## Mathematical model
 
@@ -106,8 +106,8 @@ $$
 \begin{align*}
 \dot{x}&=v_{x} \\
 \dot{y}&=v_{y} \\
-\dot{v}_{x}&=-\mu_{S}\left(x^{2}+x^{2}\right)^{-3 / 2} x+a_{x}-\mu_{e}\left\{\left(x-x_{E}\right)^{2}+\left(y-y_{E}\right)^{2}\right\}^{-3 / 2}\left(x-x_{E}\right) \\
-\dot{v}_{y}&=-\mu_{s}\left(x^{2}+x^{2}\right)^{-3 / 2} y+a_{y}-\mu_{e}\left\{\left(x-x_{E}\right)^{2}+\left(y-y_{E}\right)^{2}\right\}^{-3 / 2}\left(y-y_{E}\right)
+\dot{v}_{x}&=-\mu_{S}(x^{2}+x^{2})^{-3 / 2} x+a_{x}-\mu_{e}{(x-x_{E})^{2}+(y-y_{E})^{2}}^{-3 / 2}(x-x_{E}) \\
+\dot{v}_{y}&=-\mu_{S}(x^{2}+x^{2})^{-3 / 2} y+a_{y}-\mu_{e}{(x-x_{E})^{2}+(y-y_{E})^{2}}^{-3 / 2}(x-x_{E}) \\
 \end{align*}\ ~(2)
 $$
 
