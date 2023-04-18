@@ -1,4 +1,4 @@
-# Capturing near-Earth asteroids around Earth
+
 
 ## Introduction
 
@@ -6,11 +6,11 @@
 
 Asteroid mining is a concept that involves the extraction of useful materials from asteroids. Due to their accessibility,near-Earth asteroids (those asteroids that pass near the Earth, also known as NEAs) are a particularly accessible subset of the asteroids that provide potentially attractive targets for resources to support space industrialization. NASA's Jet Propulsion Laboratory maintains a database of NEAs, consisting of approximately 7900 asteroids [1] (at the time of this study).
 
-Many materials could be extracted and processed from NEAs which are useful for propulsion, construction, life support, agriculture, metallurgy, semiconductors, and precious and strategic metals [2,3]. Volatiles such as hydrogen and methane could be used to produce rocket propellant to transport spacecraft between space habitats, Earth, the Moon, the asteroids, and beyond. Rare-Earth metals could be used to manufacture structural materials as well as solar photovoltaic arrays which could be used to power space or lunar habitats. These solar cells could also be used in a constellation of solar power satellites in orbit around the Earth in order to provide electrical power for its inhabitants [4]. Precious metals such as platinum, platinumgroup metals (PGMs), and gold are also available. NEAs are understood to consist largely of nickel-iron ore and smaller proportions of precious metals among other constituents [5-7].
+Many materials could be extracted and processed from NEAs which are useful for propulsion, construction, life support, agriculture, metallurgy, semiconductors, and precious and strategic metals [2,3]. Volatiles such as hydrogen and methane could be used to produce rocket propellant to transport spacecraft between space habitats, Earth, the Moon, the asteroids, and beyond. Rare-Earth metals could be used to manufacture structural materials as well as solar photovoltaic arrays which could be used to power space or lunar habitats. These solar cells could also be used in a constellation of solar power satellites in orbit around the Earth in order to provide electrical power for its inhabitants [4]. Precious metals such as platinum, platinum group metals (PGMs), and gold are also available. NEAs are understood to consist largely of nickel-iron ore and smaller proportions of precious metals among other constituents [5-7].
 
-Furthermore, the environmental hazards associated with existing mining methods are posing ethical issues to all communities. Earth's deposits of raw materials may be supplemented by those mined from captured asteroids. The idea of capture itself is not entirely artificial as some planetary satellites are believed to be captured naturally, e.g., Neptune's moon Triton is believed to be a Kuiper belt object [8]. Jupiter may have also captured asteroids naturally [9].
+Furthermore, the environmental hazards associated with existing mining methods pose ethical issues to all communities. Earth's deposits of raw materials may be supplemented by those mined from captured asteroids. The idea of capture itself is not entirely artificial as some planetary satellites are believed to be captured naturally, e.g., Neptune's moon Triton is believed to be a Kuiper belt object [8]. Jupiter may have also captured asteroids naturally [9].
 
-The advantages of studying capture mechanics of NEAs are not limited to the mining industry. Space-based commerce may develop within the next few decades, including manufacturing, solar power stations, and space tourism. There is interest in space-based production of high value pharmaceuticals, semiconductors, ultra-pure crystals for many applications, and generally anything requiring large-scale material purity. The feasibility of space tourism is also being promoted. Market research in the United States, Japan, Canada and Germany has shown that as many as $80 \%$ of people younger than 40 would be interested in commercial space travel. A majority would be willing to pay up to three months' salary for the privilege. Ten percent would pay a year's salary [10]. Space development would be immensely facilitated by having a source of raw materials already in space. The cost of launching matter from Earth to space is a major limiting factor currently.
+The advantages of studying the capture mechanics of NEAs are not limited to the mining industry. Space-based commerce may develop within the next few decades, including manufacturing, solar power stations, and space tourism. There is interest in space-based production of high-value pharmaceuticals, semiconductors, ultra-pure crystals for many applications, and generally, anything requiring large-scale material purity. The feasibility of space tourism is also being promoted. Market research in the United States, Japan, Canada and Germany has shown that as many as $80 \%$ of people younger than 40 would be interested in commercial space travel. A majority would pay up to three months' salary for the privilege. Ten percent would pay a year's salary [10]. Space development would be immensely facilitated by having a source of raw materials already in space. The cost of launching matter from Earth to space is a major limiting factor currently.
 
 ### Current technology
 
@@ -33,15 +33,15 @@ _Table 1: Thrust technologies [17-26]._
 | RIT 22 | Xenon | $50-200$ | 2007 |
 | BHT-20k | Hall | 1080 | 2007 |
 
-Fig. 1 shows the increase in thrust capability over the last few decades as technological advancements (Table 1) have been made. Thus far, ion thrusters have been at the center of most thrust applications in space. Both ion thrusters and liquid rockets have been successfully used in space missions. These engines provide thrust on the order of $10 \mathrm{~N}$. Stronger engines, e.g., magnetoplasmadynamic thrusters which take advantage of the Lorentz force, have been tested in laboratories for thrust up to $200 \mathrm{~N}$ [13-16].
+Fig. 1 shows the increase in thrust capability over the last few decades as technological advancements (Table 1) have been made. Thus far, ion thrusters have been central to most thrust applications in space. Both ion thrusters and liquid rockets have been successfully used in space missions. These engines provide thrust on $10 \mathrm{~N}$. Stronger engines, e.g., magnetoplasmadynamic thrusters which take advantage of the Lorentz force, have been tested in laboratories for thrust up to $200 \mathrm{~N}$ [13-16].
 
 The current work does not set a limit on the thrust required for asteroid capture. Instead, a minimum thrust is suggested, based solely on orbital mechanics and measured asteroid orbital parameters.
 
 ### Capture of asteroid into stable Earth orbit
 
-Significant work has been done to deter and deflect hazardous asteroids and other spatial bodies (e.g., [27]). On the other hand, our work is part of a growing body of literature (e.g., [11,12]) to consider the energetics and acceleration requirements to capture an asteroid into a stable orbit around the Earth. The present work focuses on using 2-body and 3-body dynamics, along with lowthrust acceleration or impulsive $\Delta V$ maneuvers, to capture an NEA into a stable orbit around the Earth. In order to do so, an acceleration term has been introduced to the 2-body and 3-body equations of motion. This capture acceleration works to maneuver the asteroid until it enters the Earth's sphere of influence. Upon entering the sphere of influence of the Earth, two different methods of capturing the asteroid have been studied. First, an impulsive force method is studied, which provides an instantaneous change in velocity required for capture. The second method approximates the continuous acceleration required over a period of time to capture the asteroid. The only fixed parameter in the study is selected to be the maximum time required from rendezvous to capture. Based on the general principle of a timely return on an investment, the maximum capture time is set to be 10 years.
+Significant work has been done to deter and deflect hazardous asteroids and other spatial bodies (e.g., [27]). On the other hand, our work is part of a growing body of literature (e.g., [11,12]) to consider the energetics and acceleration requirements to capture an asteroid into a stable orbit around the Earth. The present work uses 2-body and 3-body dynamics, along with low-thrust acceleration or impulsive $\Delta V$ maneuvers, to capture an NEA into a stable orbit around the Earth. To do so, an acceleration term has been introduced to the 2-body and 3-body equations of motion. This capture acceleration works to maneuver the asteroid until it enters the Earth's sphere of influence. Upon entering the Earth's sphere of influence, two different methods of capturing the asteroid have been studied. First, an impulsive force method is studied, which provides an instantaneous change in velocity required for capture. The second method approximates the continuous acceleration required over a period of time to capture the asteroid. The only fixed parameter in the study is selected to be the maximum time required from rendezvous to capture. Based on the general principle of a timely return on an investment, the maximum capture time is set to be 10 years.
 
-The results of the asteroid transfer trajectory calculations (described in Sections 2 and 4) are summarized in Table 2. Twenty-three asteroids are suggested as candidates for capture using an impulsive force in the second stage of the capture sequence. Fourteen of the asteroids have an inclination separation of less than $10\degree$ with the Earth.
+The results of the asteroid transfer trajectory calculations (described in Sections 2 and 4) are summarized in Table 2. Twenty-three asteroids are suggested as candidates for capture using an impulsive force in the second stage of the capture sequence. Fourteen asteroids have an inclination separation of less than $10 \degree$ from the Earth.
 
 _Table 2 Captured asteroid data._
 | $\mathrm{Designation}$ | ${\mathrm{LTA}_1}^{a} \mathrm{(\mu m/s^2)}$ | $\mathrm{Size}^b ~\mathrm{(m)}$ | ${\mathrm{Thrust}_1}^{c} \mathrm{(kN)}$ | $\Delta i ~(\degree)$ | $\mathrm{TOF}^{d} ~\mathrm{(year)}$ | $\Delta V^{e} ~\mathrm{(m/s)}$ | $q/{r_m}^{f}$ | ${\mathrm{LTA}_2}^g ~\mathrm{(mm/s^2)}$ | ${\mathrm{Thrust}_2}^h ~\mathrm{(kN)}$ | ${v_\infty}^i ~\mathrm{(km/s)}$ |
@@ -72,22 +72,22 @@ _Table 2 Captured asteroid data._
 | 2003 SM84 | 7.6 | 100 | 12 | 6.1 | 8.3 | 3700 | 0.65 | 3.7 | 5900 | 4.7 |
 | 1996 XB27 | 10 | 150 | 54 | 7.7 | 9.1 | 3200 | 1.3 | 2.8 | 15000 | 4 |
 
-_ $^a ~\mathrm{LTA}_1$ is the low thrust acceleration for stage 1._\
-_ $^b$ Estimated diameter of asteroids [28-31]._\
-_ $^c$ Estimated thrust for stage 1._\
-_ $^d$ Total time-of-flight for capture for both stages._\
-_ $^e$ Instantaneous change in velocity._\
-_ $^f$ Radius of perigee divided by radius of Moon's orbit._\
-_ $^g ~\mathrm{LTA}_2$ is the low thrust acceleration for stage 2._\
-_ $^h$ Estimated thrust for stage 2._\
-_ $^i$ Velocity upon entering Earth's sphere of influence._\
-_ $^j$ Estimated using absolute magnitude data and approximate albedo of 0.25. See Eq. (7)._
+_$^a ~\mathrm{LTA}_1$ is the low thrust acceleration for stage 1._\
+_$^b$ Estimated diameter of asteroids [28-31]._\
+_$^c$ Estimated thrust for stage 1._\
+_$^d$ Total time-of-flight for capture for both stages._\
+_$^e$ Instantaneous change in velocity._\
+_$^f$ radius of perigee divided by the radius of Moon's orbit._\
+_$^g ~\mathrm{LTA}_2$ is the low thrust acceleration for stage 2._\
+_$^h$ Estimated thrust for stage 2._\
+_$^i$ velocity upon entering Earth's sphere of influence._\
+_$^j$ Estimated using absolute magnitude data and approximate albedo of 0.25. See Eq. (7)._
 
 ## Mathematical model
 
-Transfer trajectories from asteroids' current orbits to Earth rendezvous are calculated in an ephemeris model (including the location of the Sun, Earth and Moon), given the initial conditions at the time of perihelion of the asteroid of interest. Due to the purely conceptual nature of the work, certain approximations are made. Firstly, a two-dimensional system where only the components of the orbit that are in the reference plane are considered, thereby neglecting the third dimension, but since $\Delta i<10\degree$, the planar approximation was considered reasonable as a first-order approximation. The other major approximation is the number of bodies that are considered in the model. When the asteroids are far from the Earth, the model is set up as a two-body problem consisting of the Sun and the asteroid. When the asteroid approaches the Earth's sphere of influence, the model is changed to a three-body problem to include the Earth's influence. This is related to the standard 'patched-conics' assumption [32]. With the masses and relative speeds involved in the problem, this approximation is close enough to introduce minimal error, and we need not consider the more accurate, but more complex, patched three-body approximation [33].
+Transfer trajectories from asteroids' current orbits to Earth rendezvous are calculated in an ephemeris model (including the location of the Sun, Earth and Moon), given the initial conditions at the time of perihelion of the asteroid of interest. Due to the purely conceptual nature of the work, certain approximations are made. Firstly, a two-dimensional system where only the components of the orbit in the reference plane are considered, thereby neglecting the third dimension, but since $\Delta i<10\degree$, the planar approximation was considered reasonable as a first-order approximation. The other major approximation is the number of bodies considered in the model. When the asteroids are far from the Earth, the model is set up as a two-body problem consisting of the Sun and the asteroid. When the asteroid approaches the Earth's sphere of influence, the model is changed to a three-body problem to include the Earth's influence. This is related to the standard 'patched-conics' assumption [32]. With the masses and relative speeds involved in the problem, this approximation is close enough to introduce minimal error. We need not consider the more accurate but more complex, patched three-body approximation [33].
 
-Newton's second law is used to determine the equation of motion of the asteroid effected by the bodies of interest, given at their ephemeris-based locations. Considering both the $x$ and $y$ components in a Sun-centered inertial frame, the differential equations of motion in first-order form are
+Newton's second law determines the equation of motion of the asteroid affected by the bodies of interest, given at their ephemeris-based locations. Considering both the $x$ and $y$ components in a Sun-centered inertial frame, the differential equations of motion in the first-order form are
 
 $$
 \begin{align*}
@@ -98,20 +98,20 @@ $$
 \end{align*}\ ~(1)
 $$
 
-where $x$ and $y$ indicate the position of the asteroid in a heliocentric reference frame and $\mu_{s}=G M_{s}$, where $G$ is the gravitational constant and $M_{s}$ is the mass of the Sun. The variables $a_{x}$ and $a_{y}$ are functions of position that represent the acceleration profile that is applied to the asteroid. These equations can be solved with initial conditions for both the $x$ and $y$ components of position and velocity of the asteroid. To obtain Cartesian position and velocity components from orbital elements, we use the usual transformations (see, e.g., [32]).
+Where $x$ and $y$ indicate the position of the asteroid in a heliocentric reference frame and $\mu_{s}=G M_{s}$, where $G$ is the gravitational constant and $M_{s}$ is the mass of the Sun. The variables $a_{x}$ and $a_{y}$ are functions of the position that represent the acceleration profile applied to the asteroid. These equations can be solved with initial conditions for both the $x$ and $y$ components of the position and velocity of the asteroid. We use the usual transformations to obtain Cartesian position and velocity components from orbital elements (see, e.g., [32]).
 
-When the three-body problem is necessary the equations of motion for the Earth are the same as the equations for the asteroid in (2). The equations of motion for the asteroid including the effects of the Earth's gravitation are
+When the three-body problem is necessary, the equations of motion for the Earth are the same as those for the asteroid in (2). The equations of action for the asteroid, including the effects of the Earth's gravitation, are
 
 $$
 \begin{align*}
 \dot{x}&=v_{x} \\
 \dot{y}&=v_{y} \\
-\dot{v}_{x}&=-\mu_{S}(x^{2}+x^{2})^{-3 / 2} x+a_{x}-\mu_{e}{(x-x_{E})^{2}+(y-y_{E})^{2}}^{-3 / 2}(x-x_{E}) \\
-\dot{v}_{y}&=-\mu_{S}(x^{2}+x^{2})^{-3 / 2} y+a_{y}-\mu_{e}{(x-x_{E})^{2}+(y-y_{E})^{2}}^{-3 / 2}(x-x_{E}) \\
+\dot{v}_{x}&=-\mu_{S}\left(x^{2}+x^{2}\right)^{-3 / 2} x+a_{x}-\mu_{e}\left\{\left(x-x_{E}\right)^{2}+\left(y-y_{E}\right)^{2}\right\}^{-3 / 2}\left(x-x_{E}\right) \\
+\dot{v}_{y}&=-\mu_{s}\left(x^{2}+x^{2}\right)^{-3 / 2} y+a_{y}-\mu_{e}\left\{\left(x-x_{E}\right)^{2}+\left(y-y_{E}\right)^{2}\right\}^{-3 / 2}\left(y-y_{E}\right)
 \end{align*}\ ~(2)
 $$
 
-where $\left(x_{E}, y_{E}\right)$ indicates the position of the Earth. Our concern will be to estimate the magnitude of the acceleration profile $a(t)=\|\mathbf{a}(t)\|$ required to capture asteroids within 10 years.
+where $\left(x_{E}, y_{E}\right)$ indicates the position of the Earth. Our concern will be to estimate the magnitude of the acceleration profile $a(t)=\|\mathbf{a}(t)\|$ required to capture asteroids within ten years.
 
 ## Order of magnitude approximation
 
@@ -123,9 +123,9 @@ a_{\text {circ }}=\frac{\sqrt{\mu_{s}}}{t_{f}}\left(\frac{1}{r_{i}}-\frac{1}{r_{
 \end{align*}\ ~(3)
 $$
 
-where $r_{i}$ and $r_{f}$ are the initial and final semimajor axes, respectively (and we considered the case $r_{f}>r_{i}$).
+Where $r_{i}$ and $r_{f}$ are the initial and final semimajor axes, respectively (and we considered the case $r_{f}>r_{i}$).
 
-We note that the Edelbaum approximation for lowthrust orbits [34] can also be used to formulate an order of magnitude approximation of the thrust acceleration required to capture the asteroids. We discuss this approximation in Appendix B. This approximation is also valid only for near-circular orbits, but assumes constant acceleration, constant thrust yaw angle, and takes account of orbital inclination,
+We note that the Edelbaum approximation for low-thrust orbits [34] can also formulate an order-of-magnitude approximation of the thrust acceleration required to capture the asteroids. We discuss this approximation in Appendix B. This approximation is also valid only for near-circular orbits but assumes constant acceleration, constant thrust yaw angle and takes account of orbital inclination,
 
 $$
 \begin{align*}
@@ -133,7 +133,7 @@ a_{\text {edel }}=\frac{\sqrt{\mu_{s}}}{t_{f}} \sqrt{\frac{1}{r_{i}}+\frac{1}{r_
 \end{align*}\ ~(4)
 $$
 
-which is correct, ignoring factors of order 2 or higher in the eccentricities of the initial and final orbit. For coplanar orbits, $\Delta i=0$, and this reduces to
+This is correct, ignoring factors of order two or higher in the initial and final orbit eccentricities. For coplanar orbits, $\Delta i=0$, and this reduces to
 
 $$
 \begin{align*}
@@ -151,14 +151,14 @@ $$
 
 in the limit of small changes $\Delta r=r_{f}-r_{i}$.
 
-Due to the assumptions of these approximations, only asteroids of heliocentric eccentricity less than 0.1 are considered. Fig. 2 shows the thrust accelerations for the 130 asteroids with such an eccentricity. For a fixed $t_{f}$ of 10 years, the approximation methods in (3) and (4) yield typical accelerations on the order of $0.1-100 ~\mathrm{\mu m/s^2}$. This range provides us with a baseline for initial guesses for appropriate thrust accelerations. In higher fidelity numerical integrations, described in a later section, we found accelerations in the range $4-20 ~\mathrm{\mu m/s^2}$.
+Due to the assumptions of these approximations, only asteroids of heliocentric eccentricity less than 0.1 are considered. Fig. 2 shows the thrust accelerations for the 130 asteroids with such eccentricity. For a fixed $t_{f}$ of 10 years, the approximation methods in (3) and (4) yield typical accelerations on the order of $0.1-100 ~\mathrm{\mu m/s^2}$. This range provides a baseline for initial guesses for appropriate thrust accelerations. In higher fidelity numerical integrations, described later, we found accelerations in the range $4-20 ~\mathrm{\mu m/s^2}$.
 
 ![](https://cdn.mathpix.com/cropped/2023_03_14_96efc8ccf1b31a407693g-4.jpg?height=277&width=733&top_left_y=181&top_left_x=1004)
-_Fig. 2. One hundred and thirty asteroids whose eccentricity is less than 0.1 are shown here with their approximate thrust acceleration required to enter the Earth's heliocentric orbit calculated from (3) and (4) Assuming an average radius of $2.67 \mathrm{~m}$, and density $\rho=3000 \mathrm{~kg} / \mathrm{m}^{3}$, the estimated thrust force is shown on the right hand side._
+_Fig. 2. One hundred and thirty asteroids whose eccentricity is less than 0.1 are shown here with their approximate thrust acceleration required to enter the Earth's heliocentric orbit calculated from (3) and (4) Assuming an average radius of $2.67 \mathrm{~m}$, and density $\rho=3000 \mathrm{~kg} / \mathrm{m}^{3}$, the estimated thrust force is shown on the right-hand side._
 
-In the comprehensive list of NEAs, there are only 108 asteroids whose size has been calculated. The asteroid radius ranges from 0.03 to $31.7 \mathrm{~m}$, with an average of $2.67 \mathrm{~m}$. It must be noted that these are only the asteroids whose radius is known with great confidence; there may exist larger asteroids. Using the average radius and assuming a density of $3000 \mathrm{~kg} / \mathrm{m}^{3}$ and a spherical shape, average asteroid mass is approximated to be 239,000 kg Using this average mass and the approximated capture acceleration from (4), the average force requirements are calculated and shown on the right hand side of Fig. 2. The thrust forces and accelerations in Fig. 2 are those required to transport an asteroid from its existing heliocentric orbit into the Earth's heliocentric orbit, without considering phasing. The thrust force ranges from 0.1 to $25 \mathrm{~N}$.
+In the comprehensive list of NEAs, there are only 108 asteroids whose size has been calculated. The asteroid radius ranges from 0.03 to $31.7 \mathrm{~m}$, with an average of $2.67 \mathrm{~m}$. It must be noted that these are only the asteroids whose radius is known with great confidence; larger asteroids may exist. Using the average radius and assuming a density of $3000 \mathrm{~kg} / \mathrm{m}^{3}$ and a spherical shape, the average asteroid mass is approximated to be 239,000 kg. Using this average mass and the approximated capture acceleration from (4), the average force requirements are calculated and shown on the right-hand side of Fig. 2. The thrust forces and accelerations in Fig. 2 are those required to transport an asteroid from its current heliocentric orbit into the Earth's heliocentric orbit, without considering phasing. The thrust force ranges from 0.1 to $25 \mathrm{~N}$.
 
-For the list of final candidate asteroids in Table 2, only some have known estimated sizes. Consequently, the other asteroid diameters are calculated [35] using absolute magnitude $h$ and albedo $p$ as
+Only some have known estimated sizes for the list of final candidate asteroids in Table 2. Consequently, the other asteroid diameters are calculated [35] using absolute magnitude $h$ and albedo $p$ as
 
 $$
 \begin{align*}
@@ -170,17 +170,17 @@ Although absolute magnitude values are known, the albedo values are approximated
 
 ## Computational results
 
-The capture strategy is broken up into two separate stages. Stage 1 is a continuous low thrust approach to transport the asteroid to a rendezvous with the Earth's sphere of influence. Stage 2 is to create a stable orbit around the Earth after the rendezvous. We choose a constant acceleration thrust that is opposite to the velocity due to its simplicity and its efficiency in changing heliocentric orbital radius. An example profile of this kind operating for 10 years on asteroid 2001 QJ142 is shown in Fig. 3, with a large exaggerated magnitude to illustrate the effect. Increasing the magnitude of the acceleration makes it more difficult to physically implement the profile but also decreases the time from the start of the profile to rendezvous with the Earth.
+The capture strategy is broken up into two separate stages. Stage 1 is a continuous low-thrust approach to transport the asteroid to a rendezvous with the Earth's sphere of influence. Stage 2 is to create a stable orbit around the Earth after the rendezvous. We choose a constant acceleration thrust opposite to the velocity due to its simplicity and efficiency in changing heliocentric orbital radius. An example profile of this kind operating for ten years on asteroid 2001 QJ142 is shown in Fig. 3, with a sizeable exaggerated magnitude to illustrate the effect. Increasing the magnitude of the acceleration makes it more challenging to implement the profile physically but also decreases the time from the start of the profile to rendezvous with the Earth.
 
 ![](https://cdn.mathpix.com/cropped/2023_03_14_96efc8ccf1b31a407693g-5.jpg?height=667&width=771&top_left_y=606&top_left_x=121)
-_Fig. 3. Result of an exaggerated acceleration profile on asteroid 2001 QJ142. The original asteroid orbit is shown, as well as the hypothetical transfer trajectory, and the Earth's orbit._
+_Fig. 3. Result of an exaggerated acceleration profile on asteroid 2001 QJ142. The original asteroid orbit and the hypothetical transfer trajectory and the Earth's orbit are shown._
 
 ![](https://cdn.mathpix.com/cropped/2023_03_14_96efc8ccf1b31a407693g-5.jpg?height=215&width=776&top_left_y=1454&top_left_x=118)
-_Fig. 4. The phase angle upon the asteroids intersection of the Earth's orbit._
+_Fig. 4. The phase angle upon the asteroid's intersection with the Earth's orbit._
 
-It is important to make sure that the asteroid not only intersects the Earth's orbit, but also has the same heliocentric true anomaly as the Earth when it gets within the sphere of influence of the Earth. We measure the difference in the true anomaly using the angle $\phi$, shown in Fig. 4. The phase angle $\phi$ is the absolute value of the difference in the anomaly of the Earth and the anomaly of the asteroid. The Earth's sphere of influence extends to a radius of approximately $0.01 ~\mathrm{AU}$, which means the angular width of the sphere of influence of the Earth can be approximated by a $\phi$ value of $1\degree$.
+It is important to make sure that the asteroid not only intersects the Earth's orbit but also has the same heliocentric true anomaly as the Earth when it gets within the sphere of influence of the Earth. We measure the difference in the true anomaly using the angle $\phi$, shown in Fig. 4. The phase angle $\phi$ is the absolute value of the difference in the anomaly of the Earth and the anomaly of the asteroid. The Earth's sphere of influence extends to a radius of approximately $0.01 ~\mathrm{AU}$, which means the angular width of the sphere of influence of the Earth can be approximated by a $\phi$ value of $1\degree$.
 
-The 130 asteroids with eccentricity less than 0.1 are used in the simulation. Of these, due to the two-dimensional assumption of the model, the separation between the orbital planes of the asteroid and Earth, $\Delta i$, needs to be small, where $\Delta i$ is defined in (B.4). For each of these asteroids the optimal acceleration is determined by minimizing the value of $\phi$ (the value for $\phi$ is only calculated when the asteroid comes within the radius of the Earth). To determine the optimal acceleration, the asteroid's equation of motion is solved over the set of accelerations ranging from 2 to $20 ~\mathrm{\mu m/s^2}$. The acceleration resulting in the minimum $\phi$ (as long as $\phi<1\degree$) is recorded as $\mathrm{LTA}_{1}$ in Table 2 and corresponding flight time, or 'time of interception' is also recorded; once the stage 2 flight time is determined (see below), the sum is given as the total time-of-flight, TOF. For instance, in Fig. 5 and 6 below, we show the $\phi$ vs. acceleration and time of interception vs. acceleration for asteroid 2003 SM84.
+The 130 asteroids with an eccentricity of less than 0.1 are used in the simulation. Of these, due to the two-dimensional assumption of the model, the separation between the orbital planes of the asteroid and Earth, $\Delta i$, needs to be small, where $\Delta i$ is defined in (B.4). For each of these asteroids the optimal acceleration is determined by minimizing the value of $\phi$ (the value for $\phi$ is only calculated when the asteroid comes within the radius of the Earth). To determine the optimal acceleration, the asteroid's equation of motion is solved over the set of accelerations ranging from 2 to $20 ~\mathrm{\mu m/s^2}$. The acceleration resulting in the minimum $\phi$ (as long as $\phi<1\degree$) is recorded as $\mathrm{LTA}_{1}$ in Table 2, and corresponding flight time, or 'time of interception' is also recorded; once the stage 2 flight time is determined (see below), the sum is given as the total time-of-flight, TOF. For instance, in Fig. 5 and 6 below, we show the $\phi$ vs. acceleration and time of interception vs. acceleration for asteroid 2003 SM84.
 
 ![](https://cdn.mathpix.com/cropped/2023_03_14_96efc8ccf1b31a407693g-5.jpg?height=544&width=673&top_left_y=1808&top_left_x=258)
 _Fig. 5. $\phi$ vs. acceleration $a$, note is the discontinuity where $\phi$ drops from approximately $70\degree$ to $35\degree$_
@@ -188,9 +188,9 @@ _Fig. 5. $\phi$ vs. acceleration $a$, note is the discontinuity where $\phi$ dro
 ![](https://cdn.mathpix.com/cropped/2023_03_14_96efc8ccf1b31a407693g-5.jpg?height=547&width=665&top_left_y=1807&top_left_x=944)
 _Fig. 6. time of interception vs. acceleration $a$._
 
-The jump in $\phi$ can be explained by studying the acceleration versus time of interception plot which also contains a discontinuity at the same acceleration magnitude. The discontinuity exists due to the eccentricity in the orbit of the asteroid and is the point where the asteroid has to make an entire additional revolution around the Earth before intercepting the Earth's orbit again.
+The jump in $\phi$ can be explained by studying the acceleration versus time of the interception plot, which also contains a discontinuity at the same acceleration magnitude. The discontinuity exists due to the eccentricity in the orbit of the asteroid. It is the point where the asteroid has to make an entire additional revolution around the Earth before intercepting the Earth's orbit again.
 
-The phase angle is calculated as a function of acceleration for each of the asteroids and the minimum phase angle is determined. Once the asteroid has rendezvoused with the Earth, stage 2 of the capture is initiated. After entering the Earth's sphere of influence, the asteroid's velocity needs to be adjusted in order to create a stable orbit around the Earth. If the asteroid is to continue traveling at its rendezvous velocity, it would most likely not be captured by the Earth. Instead, the asteroid would simply be slingshot back into a different heliocentric orbit.
+The phase angle is calculated as a function of acceleration for each asteroid, and the minimum phase angle is determined. Once the asteroid has rendezvoused with the Earth, stage 2 of the capture is initiated. After entering the Earth's sphere of influence, the asteroid's velocity needs to be adjusted in order to create a stable orbit around the Earth. If the asteroid is to continue traveling at its rendezvous velocity, it would most likely not be captured by the Earth. Instead, the asteroid would simply be slingshot back into a different heliocentric orbit.
 
 Two approaches for transforming the asteroid's heliocentric orbit into a captured geocentric orbit (i.e., stage 2) are considered. Firstly, an impulsive force could be applied at a critical moment causing the transformation in the orbit. A second approach is to use low thrust applied by a continuous acceleration, as in stage 1.
 
@@ -249,13 +249,13 @@ Thus, an asteroid of the average known radius $2.67 \mathrm{~m}$ would require a
 
 ## Conclusions
 
-The purpose of this paper was two-fold. First, we estimate the accelerations and impulsive changes which would be needed to direct a near-Earth heliocentric asteroid to an Earth close encounter-with a perigee well within the Earth's Hill sphere-through planar, ephemeris-based trajectory computations. Second, we developed an order-of-magnitude thrust acceleration estimate for both the heliocentric phase and geocentric capture phase. The algorithm developed was restricted to asteroids which are:
+The purpose of this paper was two-fold. First, we estimate the accelerations and impulsive changes which would be needed to direct a near-Earth heliocentric asteroid to an Earth close encounter with a perigee well within the Earth's Hill sphere through planar, ephemeris-based trajectory computations. Second, we developed an order-of-magnitude thrust acceleration estimate for both the heliocentric phase and geocentric capture phase. The algorithm developed was restricted to asteroids which are:
 
 - with near-circular (eccentricities $<0.1$)
 - come close to the Earth's orbit
 - have an orbital plane separation angle of $1\degree$
 
-Twenty-three asteroids which could be returned in 10 years are suggested as candidates for transfer from a heliocentric orbit to Earth encounter. Fourteen of the asteroids have an inclination separation with the Earth of less than $10\degree$. The data for their capture is summarized in Table 2. The stage 1 acceleration ranged from 2 to $20 ~\mathrm{\mu m/s^2}$ and led to stage 2 impulses ranging from 700 to $4900 ~\mathrm{m/s}$. Stage 1 thrusts are more achievable from a technological standpoint. The stage 2 low thrust approximation simulations resulted in asteroids spending $\approx$ 1-3 weeks within the sphere of influence of the Earth. During this time period, the asteroids could potentially be captured by continuous accelerations of magnitudes up to $6.7 ~\mathrm{mm/s}^2$, which may be problematic if the same propulsion system as stage 1 is used as this is three orders of magnitude higher than the stage 1 acceleration.
+Twenty-three asteroids which could be returned in 10 years are suggested as candidates for transfer from a heliocentric orbit to Earth encounter. Fourteen asteroids have an inclination separation with the Earth of less than $10\degree$. The data for their capture is summarized in Table 2. The stage 1 acceleration ranged from 2 to $20 ~\mathrm{\mu m/s^2}$ and led to stage 2 impulses ranging from 700 to $4900 ~\mathrm{m/s}$. Stage 1 thrusts are more achievable from a technological standpoint. The stage 2 low thrust approximation simulations resulted in asteroids spending $\approx$ 1-3 weeks within the sphere of influence of the Earth. During this time period, the asteroids could potentially be captured by continuous accelerations of magnitudes up to $6.7 ~\mathrm{mm/s}^2$, which may be problematic if the same propulsion system as stage 1 is used as this is three orders of magnitude higher than the stage 1 acceleration.
 
 The present study demonstrates that the prospect of capturing NEAs is promising as both the timescale and forces required for capture are reasonable considering advancements in technology. The motivation was to come up with a 'short list' of asteroids that merit such further computations and consideration. The results obtained using a simplified model provide a set of asteroids on which future studies can focus using a higher fidelity models, incorporating, e.g., three-dimensional motion, all bodies of known gravitational influence, as well as other effects.
 
