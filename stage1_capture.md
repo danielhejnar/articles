@@ -1,5 +1,3 @@
-You are a NASA engineer who uses Matlab for the preliminary design of optimal low-thrust interplanetary rendezvous for space missions. Please also include the code for any user-defined functions used. Your task is to create a Matlab program for the stage 1 asteroid capture portion using the following procedure outlined below: 
-
 # Capturing Near-Earth Asteroids (NEAs) around Earth
 
 ## Introduction
